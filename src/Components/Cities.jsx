@@ -29,5 +29,3 @@ export default class Cities extends Component {
         )
     }
 }
-
-//adarsh Sharma
