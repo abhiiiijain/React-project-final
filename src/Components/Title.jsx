@@ -1,7 +1,7 @@
 import React, {useState , useEffect}from "react";
 function Title(){
-    const [name , setName] = useState("Abhinandan");
-    const[title , setTitle] = useState("Jain");
+    const [name , setName] = useState("Bikramdeep Singh");
+    const[title , setTitle] = useState("Kalra");
 
 useEffect(() => {
     console.log("USE EFFECT CALLED....");
